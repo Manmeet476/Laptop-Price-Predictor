@@ -7,4 +7,5 @@ Following is a basic workflow of the project:
 * Processing the data and Data Visualization  
 * Model Building (Selecting the best model)  
 * Hyperparameter Tuning  
-* Saving the model into pickle file
+* Saving the model into pickle file  
+* Deploying the app
